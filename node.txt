@@ -1,28 +1,4 @@
-#节点列表
 
-#临时节点-1
 vmess://YXV0bzphNjI4Njg1NS05ODg2LWQxODctNmMxMi0yYzk1YjNkNTAxMTlAd3d3Lmtlcm5lbHMuYmlkOjQ0Mw?remarks=%5Bfree-ss.site%5Dwww.kernels.bid&obfsParam=/ws&path=/&obfs=websocket&tls=1&peer=&cert=
 
-#临时节点-2
 vmess://YXV0bzphNjI4Njg1NS05ODg2LWQxODctNmMxMi0yYzk1YjNkNTAxMTlAd3d3Lmtlcm5lbHMuYmlkOjQ0Mw?remarks=%5Bfree-ss.site%5Dwww.kernels.bid&obfsParam=/ws&path=/&obfs=websocket&tls=1&peer=&cert=
-
-#临时节点-3
-
-
-#临时节点-4
-
-#临时节点-5
-
-
-#临时节点-6
-
-
-#临时节点-7
-
-
-#临时节点-8
-
-#临时节点-9
-
-#临时节点-10
-
